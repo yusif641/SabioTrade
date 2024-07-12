@@ -1,0 +1,32 @@
+<svg width="172.902344" height="48.000000" viewBox="0 0 172.902 48" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip1816_919">
+			<rect id="chevron-right" width="24.000000" height="24.000000" transform="translate(151.000000 16.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip1816_915">
+			<rect id="Primary Button" rx="23.000000" width="170.902344" height="46.000000" transform="translate(1.000000 1.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<linearGradient x1="-2.064491" y1="4.000015" x2="172.902359" y2="31.999969" id="paint_linear_1816_915_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#1A22FF"/>
+			<stop offset="1.000000" stop-color="#484FFF"/>
+		</linearGradient>
+		<radialGradient gradientTransform="translate(190.369 9.01913) rotate(175.545) scale(104.232 36.1748)" cx="0.000000" cy="0.000000" r="1.000000" id="paint_radial_1816_915_1" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFFFFF"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</radialGradient>
+		<radialGradient gradientTransform="translate(-13.8222 29.4522) rotate(-3.6202) scale(102.488 56.9886)" cx="0.000000" cy="0.000000" r="1.000000" id="paint_radial_1816_915_2" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFFFFF"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</radialGradient>
+	</defs>
+	<rect id="Primary Button" rx="23.000000" width="170.902344" height="46.000000" transform="translate(1.000000 1.000000)" fill="url(#paint_linear_1816_915_0)" fill-opacity="0"/>
+	<g clip-path="url(#clip1816_915)">
+		<path id="Arrow 1" d="M146.48 23L142.53 19.04C142.14 18.65 142.14 18.03 142.53 17.63C142.93 17.24 143.55 17.24 143.95 17.63L149.6 23.29C150 23.68 150 24.31 149.6 24.7L143.95 30.36C143.55 30.75 142.93 30.75 142.53 30.36C142.14 29.96 142.14 29.34 142.53 28.95L146.48 25L24 25C23.43 25 23 24.55 23 24C23 23.44 23.43 23 24 23L146.48 23Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+	<rect id="Primary Button" rx="23.000000" width="170.902344" height="46.000000" transform="translate(1.000000 1.000000)" stroke="url(#paint_radial_1816_915_1)" stroke-opacity="0.800000" stroke-width="2.000000"/>
+	<rect id="Primary Button" rx="23.000000" width="170.902344" height="46.000000" transform="translate(1.000000 1.000000)" stroke="url(#paint_radial_1816_915_2)" stroke-opacity="0.600000" stroke-width="2.000000"/>
+	<rect id="Primary Button" rx="23.000000" width="170.902344" height="46.000000" transform="translate(1.000000 1.000000)" stroke="#FFFFFF" stroke-opacity="0" stroke-width="2.000000"/>
+</svg>
